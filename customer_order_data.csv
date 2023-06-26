@@ -1,0 +1,6 @@
+Order ID,Product,Customer ID,Is Prime,Quantity,Price,Order DatetimeTZNaive,Order Status,Shipping Address,Order Period
+1001,Widget,C001,True,10,9.99,2022-01-01 08:00:00,Pending,123 Main St,2022-01
+1002,Gadget,C002,False,5,19.99,2022-01-02 08:00:00,Shipped,456 Elm St,2022-02
+1003,Thingamajig,C003,True,8,14.99,2022-01-03 08:00:00,Delivered,789 Oak St,2022-03
+1004,Doodad,C004,False,3,7.99,2022-01-04 08:00:00,Pending,321 Pine St,2022-04
+1005,Whatchamacallit,C005,True,12,24.99,2022-01-05 08:00:00,Shipped,654 Maple St,2022-05
